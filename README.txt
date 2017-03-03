@@ -1,3 +1,8 @@
+https://en-ca.wordpress.org/plugins/wp-laser-loader/
+
+![Screenshot](screenshot.png?raw=true)
+
+
 === WP Laser Loader ===
 Contributors: juniorhero
 Tags: page load, youtube load, progress bar
